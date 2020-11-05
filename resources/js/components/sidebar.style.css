@@ -1,0 +1,8 @@
+#link-profile:hover{
+    text-decoration: none;
+}
+
+#side-bar{
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,9 @@
+a.dropdown-item{
+    text-align: center;
+}
+a.dropdown-item:hover{
+    background-color: rgb(180, 170, 166);
+}
+span.fa-bars{
+    color: #D87A56;
+}
